@@ -1,7 +1,7 @@
 <!-- ========== HEADER ========== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:7AA2F7,100:BB9AF7&text=Koushik%20Kallamadi&fontColor=ffffff&fontSize=52&fontAlignY=42" width="100%" alt="Koushik Kallamadi" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:7AA2F7,100:BB9AF7&text=Koushik%20Kallamadi&fontColor=ffffff&fontSize=52&fontAlignY=42" width="10%" alt="Koushik Kallamadi" />
 
 <br/><br/>
 
