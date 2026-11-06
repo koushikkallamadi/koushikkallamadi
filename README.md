@@ -106,6 +106,7 @@ Worked on **Nirnayah**, an EdTech platform built with `FastAPI` `PostgreSQL` `Ne
 **📫 Want to work together? [Email me](mailto:kallamadikoushik@gmail.com) or [connect on LinkedIn](https://linkedin.com/in/koushikkallamadi)**
 
 </div>
+<br/>
 
 <!-- ========== TECH STACK ========== -->
 ## 🛠️ Tech Stack & Skills
