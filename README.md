@@ -64,7 +64,7 @@ I test, break and fix APIs, and I build full-stack apps from database to UI.
 Worked on **Nirnayah**, an EdTech platform built with `FastAPI` `PostgreSQL` `Next.js`
 
 - ✅ Wrote **pytest** suites to automate backend API testing
-- 🐞 Found and reported **[N]+ bugs** across API endpoints
+- 🐞 Found and reported ** 150+ bugs** across API endpoints
 - 🔁 Ran regression tests before releases to catch breaking changes
 - 🤝 Worked with the backend and frontend developers to reproduce and fix issues
 
@@ -75,8 +75,8 @@ Worked on **Nirnayah**, an EdTech platform built with `FastAPI` `PostgreSQL` `Ne
 | Project | What it is | Stack |
 |:--|:--|:--|
 | **DeadlineDebt** | [one line on what it does] | `React` `Node.js` `MongoDB` `Gemini AI` |
-| **NCC Management System** | [one line on what it does] | `[stack]` |
-| **CGPA Target Planner** | [one line on what it does] | `[stack]` |
+| **NCC Management System** | [one line on what it does] | `JavaScript, HTML5, CSS3` |
+| **CGPA Target Planner** | [one line on what it does] | `PHP, MySQL` |
 
 ---
 
