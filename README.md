@@ -12,7 +12,7 @@
 <!-- Line 3: pixel font with invaders -->
 <div align="center">
   👾 &nbsp;
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=2500&pause=800&color=7DCFFF&center=true&vCenter=true&width=600&height=40&lines=test.break.fix.repeat;commit.to.consistency" alt="Motto" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=2500&pause=800&color=7DCFFF&center=true&vCenter=true&width=600&height=20&lines=test.break.fix.repeat;commit.to.consistency" alt="Motto" />
   &nbsp; 👾
 </div>
 
