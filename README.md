@@ -3,23 +3,18 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:7AA2F7,100:BB9AF7&text=Koushik%20Kallamadi&fontColor=ffffff&fontSize=52&fontAlignY=42" width="100%" alt="Koushik Kallamadi" />
 
-<br/><br/>
-
 <!-- Line 1: pixel font -->
 <a href="https://github.com/YOUR_USERNAME">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=7DCFFF&center=true&vCenter=true&width=800&height=40&lines=Backend+%26+QA+Engineer+%7C+Full-Stack+Dev;API+Testing+%7C+pytest+%7C+FastAPI" alt="Role" />
-</a>
-
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=7DCFFF&center=true&vCenter=true&width=800&height=28&lines=Backend+%26+QA+Engineer+%7C+Full-Stack+Dev;API+Testing+%7C+pytest+%7C+FastAPI" alt="Role" />
+</a><br/>
 <!-- Line 2: monospace font -->
-<br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&height=40&lines=Breaking+APIs+before+users+do;Turning+ideas+into+reliable+software" alt="Tagline" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&height=28&lines=Breaking+APIs+before+users+do;Turning+ideas+into+reliable+software" alt="Tagline" /><br/>
 <!-- Line 3: pixel font with invaders -->
-<h2 align="center">
+<div align="center">
   👾 &nbsp;
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=2500&pause=800&color=7DCFFF&center=true&vCenter=true&width=600&height=40&lines=test.break.fix.repeat;commit.to.consistency" alt="Motto" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=2500&pause=800&color=7DCFFF&center=true&vCenter=true&width=600&height=28&lines=test.break.fix.repeat;commit.to.consistency" alt="Motto" />
   &nbsp; 👾
-</h2>
+</div>
 
 ---
 
