@@ -53,34 +53,57 @@ I'm a CSE undergrad who enjoys backend engineering and finding the bugs everyone
 <br/>
 
 <!-- ========== TECH STACK ========== -->
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Skills
 
-<div align="center">
+### 💻 Languages
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Languages**<br/>
-<img src="https://skillicons.dev/icons?i=py,java,js,ts,c,php,html,css&perline=8" alt="Languages" />
+### 🔧 Frameworks & Web Libraries
+![React](https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/DJANGO-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/EXPRESS-404D59?style=for-the-badge&logo=express&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TAILWINDCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Sass](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
-**Backend & Databases**<br/>
-<img src="https://skillicons.dev/icons?i=fastapi,django,nodejs,express,postgres,mysql,mongodb,firebase&perline=8" alt="Backend" />
+### 🗄️ Databases, Cloud & Infrastructure
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/FIREBASE-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Vercel](https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/RENDER-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/CLOUDFLARE-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
 
-**Frontend**<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,sass&perline=8" alt="Frontend" />
+### 🧪 Testing & Automation
+![Pytest](https://img.shields.io/badge/PYTEST-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Selenium](https://img.shields.io/badge/SELENIUM-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/PLAYWRIGHT-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 
-**Testing & Tools**<br/>
-<img src="https://skillicons.dev/icons?i=pytest,selenium,playwright,postman,git,github,vscode&perline=8" alt="Testing and tools" />
+### 🤖 AI / Data Science
+![TensorFlow](https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
-**Cloud & Deployment**<br/>
-<img src="https://skillicons.dev/icons?i=vercel,cloudflare&perline=8" alt="Cloud" />
-
-**AI / ML**<br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,numpy,pandas&perline=8" alt="AI ML" />
-
-**Creative**<br/>
-<img src="https://skillicons.dev/icons?i=pr,ae,ps&perline=8" alt="Creative" />
-
-</div>
-
-<br/>
+### 🎬 Creative Tools
+![Premiere Pro](https://img.shields.io/badge/PREMIERE_PRO-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
+![After Effects](https://img.shields.io/badge/AFTER_EFFECTS-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
+![Photoshop](https://img.shields.io/badge/PHOTOSHOP-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Canva](https://img.shields.io/badge/CANVA-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 <!-- ========== FEATURED PROJECTS ========== -->
 ## 📌 Featured Projects
