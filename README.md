@@ -38,19 +38,49 @@
 <!-- ========== ABOUT ========== -->
 ## 👨‍💻 About Me
 
-I'm a CSE undergrad who enjoys backend engineering and finding the bugs everyone else missed.
-
-| | |
-|---|---|
-| 🧪 **Experience** | QA & Backend Tester at **Saral Vidya EdTech**, Hyderabad. Wrote pytest suites, hunted API bugs and ran regression tests on **Nirnayah** (FastAPI + PostgreSQL + Next.js) |
-| 🚀 **Building** | **DeadlineDebt** (React, Node.js, MongoDB, Gemini AI), **NCC Management System**, **CGPA Target Planner** |
-| 🌱 **Learning** | FastAPI · SQLAlchemy · JWT · Alembic · pytest · httpx |
-| 🤝 **Open to** | Open-source Python tools, EdTech/FinTech backends, full-stack web apps |
-| 💬 **Ask me about** | API bug hunting, pytest automation, Git workflows, FastAPI backends |
-
-> 🎯 **Fun fact:** Qualified **GATE 2026** in 3rd year and ranked in the **Top 1%** in NPTEL NLP (IIT KGP) out of ~4,939 students.
+I'm a CSE undergrad who enjoys backend engineering and finding the bugs everyone else missed. 🐞
 
 <br/>
+
+### 🧪 Experience
+**QA & Backend Tester** · Saral Vidya EdTech, Hyderabad
+- Wrote **pytest** suites for backend APIs
+- Hunted API bugs and ran regression tests
+- Worked on **Nirnayah**, a FastAPI + PostgreSQL + Next.js platform
+
+<br/>
+
+### 🚀 Building
+- **DeadlineDebt**: React · Node.js · MongoDB · Gemini AI (deployed on Vercel & Render)
+- **NCC Management System**
+- **CGPA Target Planner**
+
+<br/>
+
+### 🌱 Currently Learning
+![FastAPI](https://img.shields.io/badge/FASTAPI-24283B?style=for-the-badge&logo=fastapi&logoColor=7AA2F7)
+![SQLAlchemy](https://img.shields.io/badge/SQLALCHEMY-24283B?style=for-the-badge&logo=sqlalchemy&logoColor=7AA2F7)
+![JWT](https://img.shields.io/badge/JWT-24283B?style=for-the-badge&logo=jsonwebtokens&logoColor=7AA2F7)
+![Alembic](https://img.shields.io/badge/ALEMBIC-24283B?style=for-the-badge&logoColor=7AA2F7)
+![Pytest](https://img.shields.io/badge/PYTEST-24283B?style=for-the-badge&logo=pytest&logoColor=7AA2F7)
+![HTTPX](https://img.shields.io/badge/HTTPX-24283B?style=for-the-badge&logoColor=7AA2F7)
+
+<br/>
+
+### 🤝 Open To
+- ✅ Open-source Python tools
+- ✅ EdTech / FinTech backends
+- ✅ Full-stack web apps
+
+<br/>
+
+### 💬 Ask Me About
+`API bug hunting` &nbsp; `pytest automation` &nbsp; `Git workflows` &nbsp; `FastAPI backends`
+
+<br/>
+
+> [!TIP]
+> **🎯 Fun fact:** Qualified **GATE 2026** in 3rd year and ranked in the **Top 1%** in NPTEL NLP (IIT KGP) out of ~4,939 students.
 
 <!-- ========== TECH STACK ========== -->
 ## 🛠️ Tech Stack & Skills
