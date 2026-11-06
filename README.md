@@ -42,8 +42,8 @@ Hi, I'm **Koushik**, a CSE student who likes backend engineering and finding the
 I test, break and fix APIs, and I build full-stack apps from database to UI.
 
 > [!NOTE]
-> 🟢 **Open to:** QA / Backend / Full-Stack roles · Open-source collaboration · EdTech & FinTech projects
-
+> 🟢 **Open to any opportunity where I can build, learn and contribute.** Roles in software development, testing, backend or full-stack are all welcome. 🚀
+> > I'm a quick learner who's ready to start and grow with the right team.
 <br/>
 
 ### ⚡ Quick Snapshot
@@ -52,7 +52,7 @@ I test, break and fix APIs, and I build full-stack apps from database to UI.
 |:--|:--|
 | 🎓 **Education** | B.Tech CSE · JNTUACEA, Anantapur · Class of 2027 |
 | 💼 **Experience** | QA & Backend Testing Intern · Saral Vidya EdTech |
-| 🎯 **Focus** | API testing · Backend (FastAPI) · Full-stack web |
+| 🎯 **Strengths** | Backend development · API testing · Full-stack web · Problem solving · Quick learner |
 | 🏆 **Achievements** | GATE 2026 qualified · Top 1% in NPTEL NLP (IIT KGP) |
 | 📍 **Location** | Anantapur, Andhra Pradesh, India |
 
