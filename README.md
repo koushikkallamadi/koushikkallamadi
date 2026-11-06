@@ -40,22 +40,16 @@
 
 I'm a CSE undergrad who enjoys backend engineering and finding the bugs everyone else missed. 🐞
 
-<br/>
-
 ### 🧪 Experience
 **QA & Backend Tester** · Saral Vidya EdTech, Hyderabad
 - Wrote **pytest** suites for backend APIs
 - Hunted API bugs and ran regression tests
 - Worked on **Nirnayah**, a FastAPI + PostgreSQL + Next.js platform
 
-<br/>
-
 ### 🚀 Building
 - **DeadlineDebt**: React · Node.js · MongoDB · Gemini AI (deployed on Vercel & Render)
 - **NCC Management System**
 - **CGPA Target Planner**
-
-<br/>
 
 ### 🌱 Currently Learning
 ![FastAPI](https://img.shields.io/badge/FASTAPI-24283B?style=for-the-badge&logo=fastapi&logoColor=7AA2F7)
@@ -65,15 +59,11 @@ I'm a CSE undergrad who enjoys backend engineering and finding the bugs everyone
 ![Pytest](https://img.shields.io/badge/PYTEST-24283B?style=for-the-badge&logo=pytest&logoColor=7AA2F7)
 ![HTTPX](https://img.shields.io/badge/HTTPX-24283B?style=for-the-badge&logoColor=7AA2F7)
 
-<br/>
-
 ### 🤝 Open To
 - ✅ Open-source Python tools
 - ✅ EdTech / FinTech backends
 - ✅ Full-stack web apps
-
-<br/>
-
+  
 ### 💬 Ask Me About
 `API bug hunting` &nbsp; `pytest automation` &nbsp; `Git workflows` &nbsp; `FastAPI backends`
 
