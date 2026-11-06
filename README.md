@@ -1,20 +1,39 @@
 <!-- ========== HEADER ========== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:7AA2F7,100:BB9AF7&text=Koushik%20Kallamadi&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Backend%20%26%20QA%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=60&descSize=18" width="100%" alt="header" />
-
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=7AA2F7&center=true&vCenter=true&width=600&lines=Breaking+APIs+before+users+do;pytest+%7C+FastAPI+%7C+PostgreSQL;Building+full+stack+products+end+to+end" alt="Typing SVG" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:7AA2F7,100:BB9AF7&text=Koushik%20Kallamadi&fontColor=ffffff&fontSize=52&fontAlignY=42" width="100%" alt="Koushik Kallamadi" />
 
 <br/><br/>
 
+<!-- Line 1: pixel font -->
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=7DCFFF&center=true&vCenter=true&width=800&height=40&lines=Backend+%26+QA+Engineer+%7C+Full-Stack+Dev;API+Testing+%7C+pytest+%7C+FastAPI" alt="Role" />
+</a>
+
+<!-- Line 2: monospace font -->
+<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&height=40&lines=Breaking+APIs+before+users+do;Turning+ideas+into+reliable+software" alt="Tagline" />
+
+<!-- Line 3: pixel font with invaders -->
+<h2 align="center">
+  👾 &nbsp;
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=2500&pause=800&color=7DCFFF&center=true&vCenter=true&width=600&height=40&lines=test.break.fix.repeat;commit.to.consistency" alt="Motto" />
+  &nbsp; 👾
+</h2>
+
+---
+
 <!-- ========== SOCIALS ========== -->
-<a href="https://linkedin.com/in/koushikkallamadi"><img src="https://skillicons.dev/icons?i=linkedin" height="44" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:kallamadikoushik@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="44" alt="Email" /></a>&nbsp;
-<a href="https://x.com/koushik8341"><img src="https://skillicons.dev/icons?i=twitter" height="44" alt="X" /></a>&nbsp;
-<a href="https://instagram.com/koushik____83"><img src="https://skillicons.dev/icons?i=instagram" height="44" alt="Instagram" /></a>&nbsp;
-<a href="https://discord.gg/1316808357163831340"><img src="https://skillicons.dev/icons?i=discord" height="44" alt="Discord" /></a>
+<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://linkedin.com/in/koushikkallamadi"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:kallamadikoushik@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://instagram.com/koushik____83"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://x.com/koushik8341"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+<a href="https://discord.gg/1316808357163831340"><img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+
+---
+
+<i>"Finding the bugs before they find the users, and turning real-world problems into clean, reliable, production-ready software."</i>
 
 </div>
 
