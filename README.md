@@ -30,6 +30,7 @@
 
 <i>"Finding the bugs before they find the users, and turning real-world problems into clean, reliable, production-ready software."</i>
 
+---
 </div>
 
 <br/>
