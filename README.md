@@ -36,41 +36,76 @@
 <br/>
 
 <!-- ========== ABOUT ========== -->
-## 👨‍💻 About Me
+## 👋 About Me
 
-I'm a CSE undergrad who enjoys backend engineering and finding the bugs everyone else missed. 🐞
+Hi, I'm **Koushik**, a CSE student who likes backend engineering and finding the bugs everyone else missed. 🐞
+I test, break and fix APIs, and I build full-stack apps from database to UI.
 
-### 🧪 Experience
-**QA & Backend Tester** · Saral Vidya EdTech, Hyderabad
-- Wrote **pytest** suites for backend APIs
-- Hunted API bugs and ran regression tests
-- Worked on **Nirnayah**, a FastAPI + PostgreSQL + Next.js platform
-
-### 🚀 Building
-- **DeadlineDebt**: React · Node.js · MongoDB · Gemini AI (deployed on Vercel & Render)
-- **NCC Management System**
-- **CGPA Target Planner**
-
-### 🌱 Currently Learning
-![FastAPI](https://img.shields.io/badge/FASTAPI-24283B?style=for-the-badge&logo=fastapi&logoColor=7AA2F7)
-![SQLAlchemy](https://img.shields.io/badge/SQLALCHEMY-24283B?style=for-the-badge&logo=sqlalchemy&logoColor=7AA2F7)
-![JWT](https://img.shields.io/badge/JWT-24283B?style=for-the-badge&logo=jsonwebtokens&logoColor=7AA2F7)
-![Alembic](https://img.shields.io/badge/ALEMBIC-24283B?style=for-the-badge&logoColor=7AA2F7)
-![Pytest](https://img.shields.io/badge/PYTEST-24283B?style=for-the-badge&logo=pytest&logoColor=7AA2F7)
-![HTTPX](https://img.shields.io/badge/HTTPX-24283B?style=for-the-badge&logoColor=7AA2F7)
-
-### 🤝 Open To
-- ✅ Open-source Python tools
-- ✅ EdTech / FinTech backends
-- ✅ Full-stack web apps
-  
-### 💬 Ask Me About
-`API bug hunting` &nbsp; `pytest automation` &nbsp; `Git workflows` &nbsp; `FastAPI backends`
+> [!NOTE]
+> 🟢 **Open to:** QA / Backend / Full-Stack roles · Open-source collaboration · EdTech & FinTech projects
 
 <br/>
 
-> [!TIP]
-> **🎯 Fun fact:** Qualified **GATE 2026** in 3rd year and ranked in the **Top 1%** in NPTEL NLP (IIT KGP) out of ~4,939 students.
+### ⚡ Quick Snapshot
+
+| | |
+|:--|:--|
+| 🎓 **Education** | B.Tech CSE · JNTUACEA, Anantapur · Class of 2027 |
+| 💼 **Experience** | QA & Backend Testing Intern · Saral Vidya EdTech |
+| 🎯 **Focus** | API testing · Backend (FastAPI) · Full-stack web |
+| 🏆 **Achievements** | GATE 2026 qualified · Top 1% in NPTEL NLP (IIT KGP) |
+| 📍 **Location** | Anantapur, Andhra Pradesh, India |
+
+---
+
+### 💼 Experience
+
+#### 🧪 QA & Backend Testing Intern · Saral Vidya EdTech, Hyderabad
+Worked on **Nirnayah**, an EdTech platform built with `FastAPI` `PostgreSQL` `Next.js`
+
+- ✅ Wrote **pytest** suites to automate backend API testing
+- 🐞 Found and reported **[N]+ bugs** across API endpoints
+- 🔁 Ran regression tests before releases to catch breaking changes
+- 🤝 Worked with the backend and frontend developers to reproduce and fix issues
+
+---
+
+### 🚀 Currently Building
+
+| Project | What it is | Stack |
+|:--|:--|:--|
+| **DeadlineDebt** | [one line on what it does] | `React` `Node.js` `MongoDB` `Gemini AI` |
+| **NCC Management System** | [one line on what it does] | `[stack]` |
+| **CGPA Target Planner** | [one line on what it does] | `[stack]` |
+
+---
+
+### 🌱 Currently Learning
+![FastAPI](https://img.shields.io/badge/FASTAPI-24283B?style=flat-square&logo=fastapi&logoColor=7AA2F7)
+![SQLAlchemy](https://img.shields.io/badge/SQLALCHEMY-24283B?style=flat-square&logo=sqlalchemy&logoColor=7AA2F7)
+![JWT](https://img.shields.io/badge/JWT-24283B?style=flat-square&logo=jsonwebtokens&logoColor=7AA2F7)
+![Pytest](https://img.shields.io/badge/PYTEST-24283B?style=flat-square&logo=pytest&logoColor=7AA2F7)
+
+---
+
+### 🏆 Highlights
+
+- 🎯 Qualified **GATE 2026** in 3rd year
+- 🧠 **Top 1%** in NPTEL NLP (IIT Kharagpur) out of ~4,939 students
+- 🛡️ Completed the **Cyber Gyan** ethical hacking virtual internship (C-DAC Noida)
+
+---
+
+### 💬 Ask Me About
+`API bug hunting` · `pytest automation` · `Git workflows` · `FastAPI backends`
+
+<br/>
+
+<div align="center">
+
+**📫 Want to work together? [Email me](mailto:kallamadikoushik@gmail.com) or [connect on LinkedIn](https://linkedin.com/in/koushikkallamadi)**
+
+</div>
 
 <!-- ========== TECH STACK ========== -->
 ## 🛠️ Tech Stack & Skills
