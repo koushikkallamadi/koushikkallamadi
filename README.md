@@ -11,9 +11,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&height=28&lines=Breaking+APIs+before+users+do;Turning+ideas+into+reliable+software" alt="Tagline" /><br/>
 <!-- Line 3: pixel font with invaders -->
 <div align="center">
-  👾 &nbsp;
+   &nbsp;
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=2500&pause=800&color=7DCFFF&center=true&vCenter=true&width=600&height=60&lines=test.break.fix.repeat;commit.to.consistency" alt="Motto" />
-  &nbsp; 👾
+  &nbsp; 
 </div>
 
 ---
